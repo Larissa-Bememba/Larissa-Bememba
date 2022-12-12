@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Larissa Wagou</title>
-    <link>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/</link>
+    <link>https://larissa-bememba.github.io/Larissa-Bememba/fr/</link>
     <description>Recent content in Data Science Portfolio on Larissa Wagou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://github.com/Larissa-Bememba/Larissa-Bememba/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://larissa-bememba.github.io/Larissa-Bememba/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projet III: Natural Language Processing with Amazon Alexa Reviews</title>
-      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/post/chapter-3/</link>
+      <link>https://larissa-bememba.github.io/Larissa-Bememba/fr/post/chapter-3/</link>
       <pubDate>Sun, 11 Dec 2022 11:13:32 -0400</pubDate>
       
-      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/post/chapter-3/</guid>
+      <guid>https://larissa-bememba.github.io/Larissa-Bememba/fr/post/chapter-3/</guid>
       <description>Effectuer une analyse exploratoire des données et tracer un nuage de mots Appliquer des bibliothèques python pour importer et visualiser un ensemble de données Évaluer les performances du modèle Naïve Bayes Classifier à l&amp;rsquo;aide de matrices de confusion. Former des modèles de classificateurs Naïve Bayes à l&amp;rsquo;aide de Scikit-Learn pour préformer la classification Effectuez la tokenisation des commentaires d&amp;rsquo;Amazon Alexa à l&amp;rsquo;aide de Scikit Learn Effectuez le nettoyage des données textuelles, comme la suppression de la ponctuation et des mots vides Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>Projet II: Exploratory Data Analysis with Python</title>
-      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/post/chapter-2/</link>
+      <link>https://larissa-bememba.github.io/Larissa-Bememba/fr/post/chapter-2/</link>
       <pubDate>Sat, 10 Dec 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/post/chapter-2/</guid>
+      <guid>https://larissa-bememba.github.io/Larissa-Bememba/fr/post/chapter-2/</guid>
       <description>Appliquer des techniques pratiques d&amp;rsquo;analyse de données exploratoires (EDA) sur n&amp;rsquo;importe quel ensemble de données tabulaires à l&amp;rsquo;aide de packages Python tels que Pandas et Numpy Produire des visualisations de données en utilisant Seaborn et Matplotlib Go to GitHub Repository</description>
     </item>
     
     <item>
       <title>Projet I: Covid19 Data Visualization</title>
-      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/post/chapter-1/</link>
+      <link>https://larissa-bememba.github.io/Larissa-Bememba/fr/post/chapter-1/</link>
       <pubDate>Fri, 09 Dec 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/post/chapter-1/</guid>
+      <guid>https://larissa-bememba.github.io/Larissa-Bememba/fr/post/chapter-1/</guid>
       <description>Utilisation de la carte Choropleth pour visualiser la propagation mondiale du COVID-19 dès le premier jour de la pandémie Utilisation d&amp;rsquo;un graphique à barres pour comparer différents pays en termes d&amp;rsquo;ampleur de la propagation du virus Visualiser l&amp;rsquo;impact du confinement national en Italie sur la propagation du virus Visualiser l&amp;rsquo;impact du verrouillage national en Italie sur le taux de mortalité Go to GitHub Repository</description>
     </item>
     
     <item>
       <title>A propos</title>
-      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/about/</link>
+      <link>https://larissa-bememba.github.io/Larissa-Bememba/fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/about/</guid>
+      <guid>https://larissa-bememba.github.io/Larissa-Bememba/fr/about/</guid>
       <description>Analyste de données expérimentée avec plus de 5 ans d&amp;rsquo;expérience dans l&amp;rsquo;amélioration de la compréhension des rapports. Excellente réputation pour résoudre les problèmes et améliorer la satisfaction des clients. Je suis passé à l&amp;rsquo;analyste de données après avoir travaillé comme administrateur cloud/système. Maintenant, je commence mon voyage en science des données. Je suis Bilingue en français et en anglais.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/contact/</link>
+      <link>https://larissa-bememba.github.io/Larissa-Bememba/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/fr/contact/</guid>
+      <guid>https://larissa-bememba.github.io/Larissa-Bememba/fr/contact/</guid>
       <description>Suivez-moi sur ces plateformes de médias sociaux
 Platforme URL LinkedIn:| https://www.linkedin.com/in/larissa-wagou/
 GitHub:| https://github.com/Larissa-Bememba/Lary_Portfolio</description>
