@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Larissa Wagou</title>
+    <link>https://github.com/Larissa-Bememba/Larissa-Bememba/</link>
+    <description>Recent content in Data Science Portfolio on Larissa Wagou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://github.com/Larissa-Bememba/Larissa-Bememba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Natural Language Processing with Amazon Alexa Reviews</title>
+      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/post/chapter-3/</link>
+      <pubDate>Sun, 11 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/post/chapter-3/</guid>
+      <description>Perform exploratory data analysis and plot word-cloud Apply python libraries to import and visualize dataset Evaluate the performance of trained Naïve Bayes Classifier model using confusion matrices. Train Naïve Bayes classifier models using Scikit-Learn to preform classification Perform tokenization to Amazon Alexa comments using Scikit Learn Perform text data cleaning such as removing punctuation and stop words Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project II: Exploratory Data Analysis with Python</title>
+      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/post/chapter-2/</link>
+      <pubDate>Sat, 10 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/post/chapter-2/</guid>
+      <description>Apply practical Exploratory Data Analysis (EDA) techniques on any tabular dataset using Python packages such as Pandas and Numpy Produce data visualizations using Seaborn and Matplotlib Go to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: Covid19 Data Visualization</title>
+      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/post/chapter-1/</link>
+      <pubDate>Fri, 09 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/post/chapter-1/</guid>
+      <description>Using Choropleth map to Visualize Global Spread of COVID-19 from first day of the pandemic Using a Bar chart to compare different countries in terms of How massive the Spread of the virus has been in there Visualizing the impact of the national lockdown in Italy on the spread of the virus Visualizing the impact of the national lockdown in Italy on the deaths rate Go to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/about/</guid>
+      <description>Experienced Data Analyst with over 5 years of experience in increasing comprehension of reports. Excellent reputation for resolving problems and improving customer satisfaction. I transioned into data analyst from a cloud/system administrator background. Now I am starting my journey in Data Science by going through self study and working on projects . I am Bilingual in French and English</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/Larissa-Bememba/Larissa-Bememba/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Larissa-Bememba/Larissa-Bememba/contact/</guid>
+      <description>Follow me on these social media platforms
+Platform URL LinkedIn:| https://www.linkedin.com/in/larissa-wagou/
+GitHub:| https://github.com/Larissa-Bememba/Lary_Portfolio</description>
+    </item>
+    
+  </channel>
+</rss>
